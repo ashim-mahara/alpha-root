@@ -3,7 +3,7 @@ Alpha-Root
 
 ```
 @misc{alpha_root_2025,
-  title       = {Alpha‑Root: A Domain‑Ranked Subset of Common Crawl},
+  title       = {Alpha‑Root},
   author      = {Mahara, Ashim},
   year        = {2025},
   howpublished= {\url{https://huggingface.co/datasets/ashim/alpha-root}},
